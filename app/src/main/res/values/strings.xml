@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">notifications_task</string>
+    <string name="NOT_IMPORTANT_CHANNEL_NAME">Basic notification channel</string>
+    <string name="NOT_IMPORTANT_CHANNEL_DESCRIPTION">Basic notification channel description</string>
+    <string name="IMPORTANT_CHANNEL_NAME">Important notification channel</string>
+    <string name="IMPORTANT_CHANNEL_DESCRIPTION">Important notification channel description</string>
+</resources>
